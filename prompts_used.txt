@@ -1,0 +1,8 @@
+1. "Write a Python data cleaning pipeline for a messy CSV with mixed date formats, duplicates, inconsistent issue types, and coordinate validation."
+2. "How to perform a spatial join between points and a GeoJSON file using GeoPandas?"
+3. "Create a Streamlit dashboard with filters, KPI cards, a choropleth map, time series, bar chart, and summary table."
+4. "Add a metric selector to the choropleth map (report count / unresolved rate / median resolution days)."
+5. "Write a hover tooltip for the map that shows district name, selected metric, total reports, and unresolved rate."
+6. "Generate two computed insights from the filtered data, suitable for a city transport department client."
+7. "Design a README that justifies color choices, layout, and chart types for an operational efficiency dashboard."
+8. "Fix the error: 'GeoJSON does not have a property named district' – provide a robust fallback."
