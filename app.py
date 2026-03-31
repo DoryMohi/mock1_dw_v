@@ -67,7 +67,7 @@ if unresolved_only:
     filtered = filtered[filtered['is_unresolved']]
 
 if filtered.empty:
-    st.warning("No data matches filters. Adjust criteria.")
+    st.warning("No data matches filters. Adjust criteria please.")
     st.stop()
 
 # ---------- KPI CARDS ----------
