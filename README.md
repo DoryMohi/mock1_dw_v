@@ -37,6 +37,7 @@
 
 ## AI tools used
 - ChatGPT for code, debugging, and design rationale.
+- Claude for reviewing
 - Copilot for minor snippets.
 
 ## What worked well
